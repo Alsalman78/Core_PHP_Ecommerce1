@@ -1,0 +1,59 @@
+
+ /* Admin Panel Global CSS 
+
+	1.Global css.
+	2. 
+
+*/
+
+
+
+/* Admin Panel Global CSS */
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext');
+
+*{
+
+	padding: 0;
+	margin: 0;
+}
+
+body{
+
+font-family:  'Ubuntu', sans-serif;
+
+
+}
+
+
+
+/*Dashboard PAge Design Start */
+.Total-Members{
+	background-color: #C70039;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.Pending-Members {
+	background-color: #48C9B0;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.Total-Items{
+	background-color: #F1C40F;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.Latest-Comments{
+	background-color: #A569BD;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+		
+
+
+
+/*Dashboard PAge Design End*/

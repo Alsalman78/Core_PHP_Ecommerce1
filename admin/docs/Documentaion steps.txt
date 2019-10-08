@@ -1,0 +1,44 @@
+[1 to 25 is compulsary for any project]
+
+1.Folder Management.
+2. Bootstrap and Font Awesome Integration.
+3.Layout Selection.
+4. Template Creation
+5. Login Form Creation
+6.Database Creation
+7.Database Table Creation
+8.Connection Project File With Database
+9.Complete the login page
+10. Password Encryption
+11.Session Start.
+12.Session End.
+13.Redirect the login page if true > dashboare.php
+14. Redirect the login  page if logout.
+15. Make The first Function of the Dynamic Page page title from the fucntion.php
+16.Add the navigation Menu On the dashboard page and remove from login page.
+17.Make the navbar fuction from lang page.
+18. Make the Dynamic page for memeber's.
+19. Create the Member's Add page.
+20. Create the Member's Profile  Edit add page.
+21.   Make the Member's Page Data With Full Functionality.
+22. Page Redirection.
+23. Members page Update
+24. Members page Delete
+25.Members page Active and Profile pic add.
+-----------------------------------------------------------------------------------
+26.Category Table Creation for DB
+27.Dynamic Category Page Creation 
+28.Category Add (new)
+29.Category edit
+30.Category update
+31.Category Delete
+-------------------------------------------------------------------------------
+32.Dashboard page Basic option design
+33.Dashboard page Total Member's Section  dynamic
+34.Dashboard page Pending Member's Section dynamic
+35.Item Page creation 
+36.
+37.
+38.
+39.
+40

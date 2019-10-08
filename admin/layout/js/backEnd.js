@@ -1,0 +1,3 @@
+// js file
+
+hello all

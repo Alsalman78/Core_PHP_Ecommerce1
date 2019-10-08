@@ -1,0 +1,59 @@
+
+.upper-navar{
+	padding: 20px 0px;
+	background-color: #2ECC71 ;
+}
+
+.login-page h1{
+	color: #333;
+	cursor: pointer;
+}
+
+.login-page form{
+  
+  max-width:  350px;
+  margin: 25px auto;
+}
+
+.login-page[data-class="login"].selected{
+	color: green;
+
+}
+
+.login-page[data-class="signup"].selected{
+	color: green;
+
+}
+
+.login-page .signup{
+	display: none;
+}
+
+.item-box{
+ padding: 20px;
+ border: 2px solid black;
+ text-align: center;
+ position: relative;
+
+}
+.price-tag{
+	position: absolute;
+	right: 0;
+	background-color: #880000;
+	color: #fff;
+	font-weight: 700;
+	padding: 5px 15px;
+}
+.item-name{
+	color: #880000;
+	font-size: 22px;
+	text-transform: uppercase;
+	padding: 15px 20px 0px;
+	font-weight: 700;
+
+}
+.item-Desc{
+	font-weight: 300;
+	font-size: 14px;
+	margin-bottom: 20px;
+}
